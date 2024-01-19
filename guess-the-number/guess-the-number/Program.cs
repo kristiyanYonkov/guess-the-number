@@ -35,9 +35,7 @@ namespace guess_the_number
             while (win == false);
 
             Console.WriteLine("Please enter any key to exit the game!");
-            Console.ReadLine();
-            
-
+                    
         }
     }
 }
